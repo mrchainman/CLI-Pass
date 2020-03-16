@@ -1,2 +1,3 @@
-# CLI-PAss
-This is a DMenu interface for the Nextcloud app Passwords written in python.
+# CLI-Pass
+This is a Dmenu interface for the Nextcloud app Passwords written in python.
+At the moment it only contains pseudo code.
